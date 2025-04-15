@@ -1,7 +1,7 @@
 # Robot-Framework-Create-invoice
 A nice test automation project, creating a invoice using Robot Framework
 
-![Descrição da imagem](./screenshots/exemplo-execucao.png)
+![Report Screenshot](report-screenshot.png)
 
 # Robot Framework Demo Project
 
